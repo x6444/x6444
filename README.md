@@ -9,6 +9,7 @@ I'm a self-taught developer from Poland.
 <h1><p align="center">Contact</p></h1>
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1187846911466676444)
+[![Discord](https://skillicons.dev/icons?i=telegram)](https://t.me/x64assembly)
 
 <h1><p align="center">Stats</p></h1>
 
