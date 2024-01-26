@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1187846911466676444" ref="https://discord.com/users/1187846911466676444"/>
+  <img src="https://lanyard.cnrad.dev/api/1187846911466676444"/>
 </p>
